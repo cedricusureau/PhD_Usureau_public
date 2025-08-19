@@ -1,0 +1,515 @@
+id_ref_prot;classification;pathogen;protein_name;accession_number
+0;Extracellular;Clostridium tetani;tetanus toxin tetX (plasmid);NP_783831
+1;Extracellular;Clostridium tetani;tetanolysin O;YP_008774065
+2;Extracellular;Clostridium tetani;hemolysin;NP_782184
+3;Extracellular;Clostridium tetani;fibronectin-binding protein;NP_780878
+4;Extracellular;Clostridium tetani;S-layer protein/N-acetylmuramoyl-L-alanine amidase;NP_781182
+5;Extracellular;Vibrio cholerae;cholera enterotoxin subunit B;NP_231099
+6;Extracellular;Vibrio cholerae;cholera enterotoxin subunit A;NP_231100
+7;Extracellular;Vibrio cholerae;accessory cholera enterotoxin;NP_231102
+8;Extracellular;Vibrio cholerae;colonization factor;NP_231104
+9;Extracellular;Entamoeba histolytica;calreticulin;XP_655241
+10;Extracellular;Entamoeba histolytica;membrane-bound O-acyltransferase (MBOAT) family protein;EAL50306
+11;Extracellular;Entamoeba histolytica;membrane transporter, putative;EAL50995
+12;Extracellular;Entamoeba histolytica;adhesin 112 (EhADH112);XP_652992
+13;Extracellular;Entamoeba histolytica;surface antigen ariel1;AAC72364
+14;Extracellular;Entamoeba histolytica;guanine nucleotide-binding protein subunit beta 2-like 1;XP_657050
+15;Extracellular;Entamoeba histolytica;enolase;XP_649161
+16;Extracellular;Entamoeba histolytica;glyceraldehyde-phosphate dehydrogenase, partial;AAA29100
+17;Extracellular;Entamoeba histolytica;triosephosphate isomerase;XP_650725
+18;Extracellular;Entamoeba histolytica;EF-hand calcium-binding domain containing protein;XP_648032
+19;Extracellular;Giardia lamblia;Seven transmembrane protein 1;XP_001704065
+20;Extracellular;Giardia lamblia;High cysteine membrane protein Group 6;XP_001705852
+21;Extracellular;Giardia lamblia;High cysteine membrane protein VSP-like;XP_001705828
+22;Extracellular;Giardia lamblia;VSP, putative;XP_001703888
+23;Extracellular;Giardia lamblia;VSP;XP_001705844
+24;Extracellular;Giardia lamblia;VSP;XP_001705829
+25;Extracellular;Giardia lamblia;VSP;XP_001705785
+26;Extracellular;Giardia lamblia;VSP;P_001705784
+27;Extracellular;Giardia lamblia;VSP;XP_001705783
+28;Extracellular;Giardia lamblia;VSP;XP_001703933
+29;Extracellular;Giardia lamblia;VSP;XP_001703925
+30;Extracellular;Giardia lamblia;VSP;XP_001703844
+31;Extracellular;Giardia lamblia;VSP;XP_001703931
+32;Extracellular;Trichinella spiralis;heat shock protein 70;CAA73574
+33;Extracellular;Trichinella spiralis;cysteine protease ATG4B;EFV52545
+34;Extracellular;Trichinella spiralis;14-3-3 protein;ACV51809
+35;Extracellular;Trichinella spiralis;serine protease inhibitor Kazal-type 4;EFV53657
+36;Extracellular;Trichomonas vaginalis;P270 surface immunogen-like, partial;XP_001292151
+37;Extracellular;Trichomonas vaginalis;surface antigen BspA-like;XP_001313891
+38;Extracellular;Trichomonas vaginalis;surface immunogen P270-related protein, partial;XP_001284871
+39;Extracellular;Trichomonas vaginalis;alpha-actinin;XP_001580136
+40;Extracellular;Trichomonas vaginalis;hypothetical protein;XP_001582296
+41;Extracellular;Trichomonas vaginalis;Ser/Thr protein phosphatase;XP_001299798
+42;Extracellular;Trichomonas vaginalis;Adenylate and Guanylate cyclase catalytic domain containing protein;XP_001584317
+43;Extracellular;Trichomonas vaginalis;Tetraspanin family protein;XP_001327241
+44;Extracellular;Trichomonas vaginalis;polymorphic outer membrane protein;XP_001325298
+45;Extracellular;Trichomonas vaginalis;polymorphic outer membrane protein;XP_001303631
+46;Extracellular;Trichomonas vaginalis;Clan S-, family S54, Rhomboid-like serine peptidase;XP_001316801
+47;Extracellular;Trichomonas vaginalis;Tetraspanin family protein;XP_001326883
+48;Extracellular;Trichomonas vaginalis;hypothetical protein;XP_001301868
+49;Extracellular;Schistosoma mansoni;putative paramyosin (Allergen Blo t 11);CCD74732
+50;Extracellular;Schistosoma mansoni;putative paramyosin (Allergen Blo t 11);CCD75328
+51;Extracellular;Schistosoma mansoni;glyceraldehyde-3-phosphate dehydrogenase (phosphorylating);CCD75626
+52;Extracellular;Schistosoma mansoni;glyceraldehyde-3-phosphate dehydrogenase (phosphorylating);CCD75625
+53;Extracellular;Schistosoma mansoni;glyceraldehyde-3-phosphate dehydrogenase (phosphorylating);CCD75627
+54;Extracellular;Schistosoma mansoni;glutathione S-transferase 26 kDa;CCD80234
+55;Extracellular;Schistosoma mansoni;putative fatty acid binding protein;CCD77656
+56;Extracellular;Schistosoma mansoni;putative fatty acid binding protein;CCD77655
+57;Intracellular;Human immunodeficiency virus 1;Gag-Pol;NP_057849
+58;Intracellular;Human immunodeficiency virus 2;Pr55(Gag);NP_057850
+59;Intracellular;Human immunodeficiency virus 3;Vif;NP_057851
+60;Intracellular;Human immunodeficiency virus 4;Vpr;NP_057852
+61;Intracellular;Human immunodeficiency virus 5;Tat;NP_057853
+62;Intracellular;Human immunodeficiency virus 6;Rev;NP_057854
+63;Intracellular;Human immunodeficiency virus 7;Vpu;NP_057855
+64;Intracellular;Human immunodeficiency virus 8;Envelope surface glycoprotein gp160, precursor;NP_057856
+65;Intracellular;Human immunodeficiency virus 9;Asp;YP_009028572
+66;Intracellular;Human immunodeficiency virus 10;Nef;NP_057857
+67;Intracellular;Hepatitis B virus;Polymerase;NP_647604
+68;Intracellular;Hepatitis B virus;large envelope protein;YP_355333
+69;Intracellular;Hepatitis B virus;middle envelope protein;YP_355334
+70;Intracellular;Hepatitis B virus;small envelope protein;NP_647605
+71;Intracellular;Hepatitis B virus;X protein;NP_647606
+72;Intracellular;Hepatitis B virus;pre-capsid protein;YP_355335
+73;Intracellular;Hepatitis B virus;capsid protein;NP_647607
+74;Intracellular;Measles virus;nucleocapsid protein;NP_056918
+75;Intracellular;Measles virus;phosphoprotein;NP_056919
+76;Intracellular;Measles virus;V protein;YP_003873249
+77;Intracellular;Measles virus;C protein;NP_056920
+78;Intracellular;Measles virus;matrix protein;NP_056921
+79;Intracellular;Measles virus;fusion protein;NP_056922
+80;Intracellular;Measles virus;hemagglutinin protein;NP_056923
+81;Intracellular;Measles virus;large polymerase protein;NP_056924
+82;Intracellular;Mumps virus;nucleocapsid protein;NP_054707
+83;Intracellular;Mumps virus;phoshoprotein;NP_054708
+84;Intracellular;Mumps virus;V protein;NP_054709
+85;Intracellular;Mumps virus;membrane protein;NP_054710
+86;Intracellular;Mumps virus;fusion protein;NP_054711
+87;Intracellular;Mumps virus;small hydrophobic protein;NP_054712
+88;Intracellular;Mumps virus;hemagglutinin-neuraminidase;NP_054713
+89;Intracellular;Mumps virus;large protein;NP_054714
+90;Intracellular;Rabies virus;nucleoprotein N;NP_056793
+91;Intracellular;Rabies virus;phosphoprotein M1;NP_056794
+92;Intracellular;Rabies virus;M2 protein;NP_056795
+93;Intracellular;Rabies virus;transmembrane glycoprotein G;NP_056796
+94;Intracellular;Rabies virus;L protein;NP_056797
+95;Intracellular;Rubella virus;non-structural polyprotein;NP_062883
+96;Intracellular;Rubella virus;structural polyprotein;NP_062884
+97;Intracellular;Hepatitis C virus;polyprotein;NP_671491
+98;Intracellular;Hepatitis C virus;protein F;NP_803170
+99;Intracellular;Human herpesvirus 4;early antigen protein D;YP_401657
+100;Intracellular;Human herpesvirus 4;envelope glycoprotein gp350;YP_401667
+101;Intracellular;Human herpesvirus 4;glycoprotein L precursor;YP_401678
+102;Intracellular;Human herpesvirus 4;glycoprotein M;YP_401685
+103;Intracellular;Human herpesvirus 4;putative membrane antigen gp85;YP_401694
+104;Intracellular;Human herpesvirus 4;probable membrane glycoprotein;YP_401706
+105;Intracellular;Human herpesvirus 4;glycoprotein gp85 precursor;YP_401700
+106;Intracellular;Human herpesvirus 4;glycoprotein gp110 precursor;YP_401713
+107;Intracellular;Human herpesvirus 4;putative nmembrane antigen p140;YP_401633
+108;Intracellular;Human herpesvirus 4;membrane protein;YP_401711
+109;Intracellular;Human herpesvirus 4;putative membrane protein BLRF1;YP_401665
+110;Intracellular;Human herpesvirus 4;large tegument protein;YP_401652
+111;Intracellular;Human herpesvirus 4;EBNA-1 protein;YP_401677
+112;Intracellular;Human herpesvirus 4;EBNA-2 nuclear protein;YP_401644
+113;Intracellular;Human herpesvirus 4;EBNA-LP protein;YP_401636
+114;Intracellular;Human herpesvirus 4;EBNA3A nuclear protein;YP_401669
+115;Intracellular;Human herpesvirus 4;EBNA3C latent protein;YP_401671
+116;Intracellular;Human herpesvirus 4;EBNA-3B nuclear protein;YP_401670
+117;Intracellular;Human herpesvirus 4;terminal protein LMP2A;YP_401631
+118;Intracellular;Human herpesvirus 4;terminal protein LMP2B;YP_401632
+119;Intracellular;Human herpesvirus 4;BCRF1 protein precursor;YP_401634
+120;Intracellular;Human herpesvirus 4;hypothetical protein BCRF2, partial;YP_401635
+121;Intracellular;Human herpesvirus 4;BMRF2 protein;YP_401658
+122;Intracellular;Human herpesvirus 4;BMLF1 protein;YP_401660
+123;Intracellular;Human herpesvirus 4;putative BLLF2 protein;YP_401668
+124;Intracellular;Human herpesvirus 4;putative BZLF2 protein;YP_401672
+125;Intracellular;Human herpesvirus 4;putative BARF0 protein, partial;YP_401716
+126;Intracellular;Variola virus;A-type inclusion body protein;NP_042174
+127;Intracellular;Variola virus;putative virulence factor;NP_042060
+128;Intracellular;Variola virus;36 kDa major membrane protein;NP_042073
+129;Intracellular;Variola virus;palmytilated EEV membrane glycoprotein;NP_042081
+130;Intracellular;Variola virus;IMV membrane protein;NP_042100
+131;Intracellular;Variola virus;putative viral membrane protein;NP_042129
+132;Intracellular;Variola virus;IMV membrane protein;NP_042168
+133;Intracellular;Variola virus;IEV and EEV membrane glycoprotein;NP_042185
+134;Intracellular;Variola virus;EEV membrane glycoprotein;NP_042219
+135;Intracellular;Influenza A virus;nucleocapsid protein;AJI80522
+136;Intracellular;Influenza A virus;hemagglutinin;AJI80518
+137;Intracellular;Influenza A virus;neuraminidase;AJI80521
+138;Intracellular;Treponema pallidum;antigen;AAA75016
+139;Intracellular;Treponema pallidum;treponemal membrane protein A;AAA27481
+140;Intracellular;Treponema pallidum;endoflagellar sheath protein;AAA27477
+141;Intracellular;Treponema pallidum;17 kDa lipoprotein;AAA27472
+142;Intracellular;Treponema pallidum;Tpp15;AAC45732
+143;Intracellular;Mycobacterium leprae;FAP family protein;NP_302372
+144;Intracellular;Mycobacterium leprae;cytotoxin/hemolysin;NP_301968
+145;Intracellular;Mycobacterium leprae;p60-family protein;NP_301879
+146;Intracellular;Mycobacterium leprae;co-chaperonin GroES;NP_301372
+147;Intracellular;Mycobacterium leprae;putative secreted protein;CAR70980
+148;Intracellular;Toxoplasma gondii;hypothetical protein TGME49_279540;EPT30382
+149;Intracellular;Toxoplasma gondii;dense granule protein GRA7;EPT30138
+150;Intracellular;Toxoplasma gondii;aspartyl protease ASP1;EPT30276
+151;Intracellular;Toxoplasma gondii;rhoptry protein ROP18;EPT29989
+152;Intracellular;Toxoplasma gondii;MIC2-associated protein M2AP;EPT26499
+153;Intracellular;Toxoplasma gondii;dense granule protein GRA2;EPT27242
+154;Intracellular;Toxoplasma gondii;dense granule protein GRA6;EPT26403
+155;Intracellular;Toxoplasma gondii;SAG-related sequence SRS39;EPT30357
+156;Intracellular;Toxoplasma gondii;SAG-related sequence SRS35A;EPT29845
+157;Intra–extracellular;Mycobacterium tuberculosis;ESAT-6-like protein EsxB;NP_218391
+158;Intra–extracellular;Mycobacterium tuberculosis;ribonucleoside-diphosphate reductase subunit beta NrdF1;YP_177853
+159;Intra–extracellular;Mycobacterium tuberculosis;PPE family protein PPE42;YP_177893
+160;Intra–extracellular;Mycobacterium tuberculosis;NAD(P)H nitroreductase;NP_216548
+161;Intra–extracellular;Mycobacterium tuberculosis;ESX-1 secretion-associated protein EspI;NP_218393
+162;Intra–extracellular;Mycobacterium tuberculosis;PPE family protein PPE68;YP_178022
+163;Intra–extracellular;Mycobacterium tuberculosis;ESAT-6 like protein EsxJ;NP_215554
+164;Intra–extracellular;Mycobacterium tuberculosis;diacylglycerol acyltransferase/mycolyltransferase Ag85A;NP_218321
+165;Intra–extracellular;Mycobacterium tuberculosis;heparin binding hemagglutinin HbhA;NP_214989
+166;Intra–extracellular;Mycobacterium tuberculosis;permease;NP_216495
+167;Intra–extracellular;Streptococcus pneumoniae;surface protein pspA;NP_357715
+168;Intra–extracellular;Streptococcus pneumoniae;choline binding protein A;P_359586
+169;Intra–extracellular;Streptococcus pneumoniae;N-acetylmuramoyl-L-alanine amidase;NP_359346
+170;Intra–extracellular;Streptococcus pneumoniae;endo-beta-N-acetylglucosaminidase;NP_358461
+171;Intra–extracellular;Streptococcus pneumoniae;1,4-beta-N-acetylmuramidase;NP_359024
+172;Intra–extracellular;Streptococcus pneumoniae;Para-aminobenzoate synthetase;NP_358176
+173;Intra–extracellular;Streptococcus pneumoniae;neuraminidase A;NP_359129
+174;Intra–extracellular;Streptococcus pneumoniae;manganese ABC transporter substrate-binding protein;NP_359087
+175;Intra–extracellular;Streptococcus pneumoniae;cell wall-associated serine proteinase PrtA;NP_358155
+176;Intra–extracellular;Streptococcus pneumoniae;zinc metalloprotease;NP_358175
+177;Intra–extracellular;Yersinia pestis;F1 capsule antigen (plasmid);NP_395430
+178;Intra–extracellular;Yersinia pestis;putative F1 capsule anchoring protein;NP_395429
+179;Intra–extracellular;Yersinia pestis;putative F1 operon positive regulatory protein (plasmid);NP_395427
+180;Intra–extracellular;Yersinia pestis;secreted effector protein (plasmid);NP_395165
+181;Intra–extracellular;Yersinia pestis;low calcium response protein G (plasmid);NP_395166
+182;Intra–extracellular;Yersinia pestis;putative outer membrane virulence protein (plasmid);NP_395143
+183;Intra–extracellular;Bordetella pertussis;pertussis toxin subunit 1;NP_882282
+184;Intra–extracellular;Bordetella pertussis;pertussis toxin subunit 2;NP_882283
+185;Intra–extracellular;Bordetella pertussis;pertussis toxin subunit 3;NP_882286
+186;Intra–extracellular;Bordetella pertussis;pertussis toxin subunit 4;NP_882284
+187;Intra–extracellular;Bordetella pertussis;pertussis toxin subunit 5;NP_882285
+188;Intra–extracellular;Bordetella pertussis;serotype 2 fimbrial subunit;NP_879898
+189;Intra–extracellular;Bordetella pertussis;serotype 3 fimbrial subunit;NP_880302
+190;Intra–extracellular;Bordetella pertussis;filamentous hemagglutinin/adhesin;NP_880571
+191;Intra–extracellular;Bordetella pertussis;pertactin autotransporter;NP_879839
+192;Intra–extracellular;Bordetella pertussis;dermonecrotic toxin;NP_881965
+193;Intra–extracellular;Corynebacterium diphtheriae;diphtheria toxin;NP_938615
+194;Intra–extracellular;Salmonella enterica;type III secretion protein;NP_456106
+195;Intra–extracellular;Salmonella enterica;type III secretion protein;NP_456107
+196;Intra–extracellular;Salmonella enterica;type III secretion protein;NP_456108
+197;Intra–extracellular;Salmonella enterica;type III secretion protein;NP_456109
+198;Intra–extracellular;Salmonella enterica;type III secretion protein;NP_456110
+199;Intra–extracellular;Salmonella enterica;type III secretion protein;NP_456114
+200;Intra–extracellular;Salmonella enterica;outer membrane secretory protein;NP_456134
+201;Intra–extracellular;Salmonella enterica;pathogenicity island 2 secreted effector protein;NP_456135
+202;Intra–extracellular;Salmonella enterica;two-component sensor kinase;NP_456136
+203;Intra–extracellular;Salmonella enterica;Vi polysaccharide exporter protein;NP_458730
+204;Intra–extracellular;Salmonella enterica;Vi polysaccharide exporter inner-membrane protein;NP_458731
+205;Intra–extracellular;Salmonella enterica;Vi polysaccharide exporter protein;NP_458734
+206;Intra–extracellular;Salmonella enterica;Vi polysaccharide exporter ATP-binding protein;NP_458732
+207;Intra–extracellular;Salmonella enterica;Vi polysaccharide exporter inner-membrane protein;NP_458733
+208;Intra–extracellular;Salmonella enterica;Vi polysaccharide biosynthesis protein;NP_458738
+209;Intra–extracellular;Salmonella enterica;Vi polysaccharide biosynthesis epimerase;NP_458739
+210;Intra–extracellular;Salmonella enterica;Vi polysaccharide biosynthesis protein;NP_458741
+211;Intra–extracellular;Salmonella enterica;Vi polysaccharide biosynthesis protein TviE;NP_458735
+212;Intra–extracellular;Plasmodium falciparum;rhoptry-associated protein 1, RAP1;XP_001348275
+213;Intra–extracellular;Plasmodium falciparum;conserved Plasmodium protein, unknown function;XP_001348247
+214;Intra–extracellular;Plasmodium falciparum;reticulocyte binding protein 2 homolog A;XP_001350083
+215;Intra–extracellular;Plasmodium falciparum;reticulocyte binding protein 2, homolog b;XP_002809051
+216;Intra–extracellular;Plasmodium falciparum;plasmodium falciparum gamete antigen 27/25;XP_001349749
+217;Intra–extracellular;Plasmodium falciparum;Thrombospondin-related anonymous protein, TRAP;XP_001350088
+218;Intra–extracellular;Plasmodium falciparum;erythrocyte binding antigen-140;XP_001349859
+219;Intra–extracellular;Plasmodium falciparum;CelTOS, putative;XP_001350569
+220;Intra–extracellular;Plasmodium falciparum;erythrocyte membrane protein 1, PfEMP1;XP_001350410
+221;Intra–extracellular;Plasmodium falciparum;MAEBL, putative (merozoite adhesive erythrocytic binding protein);XP_001348153
+222;Intra–extracellular;Plasmodium falciparum;apical membrane antigen 1, AMA1;XP_001348015
+223;Intra–extracellular;Plasmodium falciparum;circumsporozoite-related antigen;XP_001347895
+224;Intra–extracellular;Plasmodium falciparum;merozoite surface protein;XP_001347636
+225;Intra–extracellular;Plasmodium falciparum;merozoite surface protein 6;XP_001347630
+226;Intra–extracellular;Plasmodium falciparum;merozoite surface protein 3;XP_001347629
+227;Intra–extracellular;Plasmodium falciparum;cytoadherence linked asexual protein 9(CLAG9);XP_001352222
+228;Intra–extracellular;Plasmodium falciparum;merozoite surface protein 1 precursor;XP_001352170
+229;Intra–extracellular;Plasmodium falciparum;heat shock 70 kDa protein;XP_001349336
+230;Intra–extracellular;Plasmodium falciparum;reticulocyte-binding protein homologue 1;XP_002808637
+231;Intra–extracellular;Plasmodium falciparum;merozoite surface protein 2 precursor;XP_001349578
+232;Human;Human;tr|E9PCG9|E9PCG9_HUMAN D-beta-hydroxybutyrate dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=BDH1 PE=1 SV=1;tr|E9PCG9|E9PCG
+233;Human;Human;tr|A0A8I5KSK6|A0A8I5KSK6_HUMAN Solute carrier family 12 member 1 OS=Homo sapiens OX=9606 GN=SLC12A1 PE=1 SV=1;tr|A0A8I5KSK6|A
+234;Human;Human;sp|Q14896|MYPC3_HUMAN Myosin-binding protein C, cardiac-type OS=Homo sapiens OX=9606 GN=MYBPC3 PE=1 SV=4;sp|Q14896|MYPC3
+235;Human;Human;tr|F2Z2I0|F2Z2I0_HUMAN Sphingomyelin phosphodiesterase 4 OS=Homo sapiens OX=9606 GN=SMPD4 PE=1 SV=1;tr|F2Z2I0|F2Z2I
+236;Human;Human;tr|A0A8I5QJQ0|A0A8I5QJQ0_HUMAN Neurobeachin OS=Homo sapiens OX=9606 GN=NBEA PE=1 SV=1;tr|A0A8I5QJQ0|A
+237;Human;Human;tr|E9PID5|E9PID5_HUMAN Liprin-alpha-1 (Fragment) OS=Homo sapiens OX=9606 GN=PPFIA1 PE=1 SV=1;tr|E9PID5|E9PID
+238;Human;Human;tr|E9PQR6|E9PQR6_HUMAN ETS homologous factor (Fragment) OS=Homo sapiens OX=9606 GN=EHF PE=1 SV=1;tr|E9PQR6|E9PQR
+239;Human;Human;tr|G3V437|G3V437_HUMAN Protein angel homolog 1 (Fragment) OS=Homo sapiens OX=9606 GN=ANGEL1 PE=1 SV=2;tr|G3V437|G3V43
+240;Human;Human;tr|I3L526|I3L526_HUMAN Brain-specific angiogenesis inhibitor 1-associated protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=BAIAP2 PE=1 SV=1;tr|I3L526|I3L52
+241;Human;Human;tr|J3QR02|J3QR02_HUMAN Probable ATP-dependent RNA helicase DDX5 OS=Homo sapiens OX=9606 GN=DDX5 PE=1 SV=1;tr|J3QR02|J3QR0
+242;Human;Human;tr|H7C0B2|H7C0B2_HUMAN Glucocorticoid-induced transcript 1 protein (Fragment) OS=Homo sapiens OX=9606 GN=GLCCI1 PE=1 SV=1;tr|H7C0B2|H7C0B
+243;Human;Human;tr|H7C254|H7C254_HUMAN Ankyrin repeat and MYND domain-containing protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=ANKMY1 PE=1 SV=2;tr|H7C254|H7C25
+244;Human;Human;tr|A0A8I5KSZ3|A0A8I5KSZ3_HUMAN La-related protein 7 OS=Homo sapiens OX=9606 GN=LARP7 PE=1 SV=1;tr|A0A8I5KSZ3|A
+245;Human;Human;sp|P42701|I12R1_HUMAN Interleukin-12 receptor subunit beta-1 OS=Homo sapiens OX=9606 GN=IL12RB1 PE=1 SV=1;sp|P42701|I12R1
+246;Human;Human;tr|F8W6E7|F8W6E7_HUMAN Serine/threonine-protein kinase 31 (Fragment) OS=Homo sapiens OX=9606 GN=STK31 PE=1 SV=8;tr|F8W6E7|F8W6E
+247;Human;Human;tr|K7ER63|K7ER63_HUMAN Glutaryl-CoA dehydrogenase, mitochondrial OS=Homo sapiens OX=9606 GN=GCDH PE=1 SV=1;tr|K7ER63|K7ER6
+248;Human;Human;tr|K7EPN8|K7EPN8_HUMAN Inactive rhomboid protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=RHBDF2 PE=4 SV=1;tr|K7EPN8|K7EPN
+249;Human;Human;tr|A0A8Q3WMF1|A0A8Q3WMF1_HUMAN E3 ubiquitin-protein ligase FANCL OS=Homo sapiens OX=9606 GN=FANCL PE=1 SV=1;tr|A0A8Q3WMF1|A
+250;Human;Human;tr|A0A7I2V2Q3|A0A7I2V2Q3_HUMAN UTP--glucose-1-phosphate uridylyltransferase OS=Homo sapiens OX=9606 GN=UGP2 PE=1 SV=1;tr|A0A7I2V2Q3|A
+251;Human;Human;tr|H0Y3Q0|H0Y3Q0_HUMAN Proprotein convertase subtilisin/kexin type 6 (Fragment) OS=Homo sapiens OX=9606 GN=PCSK6 PE=1 SV=1;tr|H0Y3Q0|H0Y3Q
+252;Human;Human;tr|A0A096LP21|A0A096LP21_HUMAN CASP8-associated protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=CASP8AP2 PE=1 SV=1;tr|A0A096LP21|A
+253;Human;Human;tr|H7BXM1|H7BXM1_HUMAN Seipin OS=Homo sapiens OX=9606 GN=BSCL2 PE=1 SV=1;tr|H7BXM1|H7BXM
+254;Human;Human;tr|A0A0A0MTC1|A0A0A0MTC1_HUMAN E3 ubiquitin-protein ligase RNF213 OS=Homo sapiens OX=9606 GN=RNF213 PE=1 SV=1;tr|A0A0A0MTC1|A
+255;Human;Human;tr|V9GYZ9|V9GYZ9_HUMAN DDB1- and CUL4-associated factor 8 (Fragment) OS=Homo sapiens OX=9606 GN=DCAF8 PE=1 SV=1;tr|V9GYZ9|V9GYZ
+256;Human;Human;tr|F5GZP6|F5GZP6_HUMAN Liprin-beta-1 (Fragment) OS=Homo sapiens OX=9606 GN=PPFIBP1 PE=1 SV=1;tr|F5GZP6|F5GZP
+257;Human;Human;sp|Q8TD16|BICD2_HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens OX=9606 GN=BICD2 PE=1 SV=1;sp|Q8TD16|BICD2
+258;Human;Human;tr|A0A6Q8PG93|A0A6Q8PG93_HUMAN Ribitol-5-phosphate transferase OS=Homo sapiens OX=9606 GN=FKTN PE=1 SV=1;tr|A0A6Q8PG93|A
+259;Human;Human;tr|K7EMD8|K7EMD8_HUMAN Nuclear speckle splicing regulatory protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=NSRP1 PE=1 SV=1;tr|K7EMD8|K7EMD
+260;Human;Human;tr|F8WDA5|F8WDA5_HUMAN GATOR complex protein NPRL3 OS=Homo sapiens OX=9606 GN=NPRL3 PE=1 SV=1;tr|F8WDA5|F8WDA
+261;Human;Human;sp|Q9NXX6|NSE4A_HUMAN Non-structural maintenance of chromosomes element 4 homolog A OS=Homo sapiens OX=9606 GN=NSMCE4A PE=1 SV=2;sp|Q9NXX6|NSE4A
+262;Human;Human;tr|A0A087WT04|A0A087WT04_HUMAN PMF1-BGLAP readthrough OS=Homo sapiens OX=9606 GN=PMF1-BGLAP PE=4 SV=1;tr|A0A087WT04|A
+263;Human;Human;tr|H3BRH4|H3BRH4_HUMAN Eukaryotic elongation factor 2 kinase OS=Homo sapiens OX=9606 GN=EEF2K PE=1 SV=1;tr|H3BRH4|H3BRH
+264;Human;Human;tr|A0A0A0MS51|A0A0A0MS51_HUMAN Gelsolin OS=Homo sapiens OX=9606 GN=GSN PE=1 SV=1;tr|A0A0A0MS51|A
+265;Human;Human;sp|Q3MIP1|IPIL2_HUMAN Inositol 1,4,5-trisphosphate receptor-interacting protein-like 2 OS=Homo sapiens OX=9606 GN=ITPRIPL2 PE=1 SV=1;sp|Q3MIP1|IPIL2
+266;Human;Human;tr|A0A590UJV4|A0A590UJV4_HUMAN Voltage-gated potassium channel subunit beta-2 OS=Homo sapiens OX=9606 GN=KCNAB2 PE=1 SV=1;tr|A0A590UJV4|A
+267;Human;Human;tr|A0A3B3ITF5|A0A3B3ITF5_HUMAN WD repeat-containing protein 27 OS=Homo sapiens OX=9606 GN=WDR27 PE=4 SV=1;tr|A0A3B3ITF5|A
+268;Human;Human;sp|Q3LI61|KR202_HUMAN Keratin-associated protein 20-2 OS=Homo sapiens OX=9606 GN=KRTAP20-2 PE=3 SV=1;sp|Q3LI61|KR202
+269;Human;Human;tr|E9PQC5|E9PQC5_HUMAN Ras-related protein R-Ras2 OS=Homo sapiens OX=9606 GN=RRAS2 PE=1 SV=1;tr|E9PQC5|E9PQC
+270;Human;Human;sp|Q9UKR8|TSN16_HUMAN Tetraspanin-16 OS=Homo sapiens OX=9606 GN=TSPAN16 PE=2 SV=1;sp|Q9UKR8|TSN16
+271;Human;Human;tr|F5GXS0|F5GXS0_HUMAN Complement C4-B OS=Homo sapiens OX=9606 GN=C4B PE=1 SV=1;tr|F5GXS0|F5GXS
+272;Human;Human;tr|C9JQS3|C9JQS3_HUMAN Syntaxin-binding protein 5-like (Fragment) OS=Homo sapiens OX=9606 GN=STXBP5L PE=1 SV=1;tr|C9JQS3|C9JQS
+273;Human;Human;tr|A0A7P0TAT7|A0A7P0TAT7_HUMAN 4F2 cell-surface antigen heavy chain OS=Homo sapiens OX=9606 GN=SLC3A2 PE=1 SV=1;tr|A0A7P0TAT7|A
+274;Human;Human;tr|H0YLC5|H0YLC5_HUMAN POU domain, class 2, transcription factor 3 (Fragment) OS=Homo sapiens OX=9606 GN=POU2F3 PE=1 SV=9;tr|H0YLC5|H0YLC
+275;Human;Human;tr|B7ZC06|B7ZC06_HUMAN Golgin subfamily A member 2 OS=Homo sapiens OX=9606 GN=GOLGA2 PE=1 SV=4;tr|B7ZC06|B7ZC0
+276;Human;Human;tr|A0A6I8PL95|A0A6I8PL95_HUMAN NEDD4-binding protein 2-like 2 OS=Homo sapiens OX=9606 GN=N4BP2L2 PE=1 SV=1;tr|A0A6I8PL95|A
+277;Human;Human;sp|A8MVJ9|HPF1L_HUMAN Putative histone PARylation factor 1-like OS=Homo sapiens OX=9606 PE=5 SV=1;sp|A8MVJ9|HPF1L
+278;Human;Human;sp|Q9UPN4|CP131_HUMAN Centrosomal protein of 131 kDa OS=Homo sapiens OX=9606 GN=CEP131 PE=1 SV=3;sp|Q9UPN4|CP131
+279;Human;Human;tr|H0YJV2|H0YJV2_HUMAN Serine palmitoyltransferase 2 (Fragment) OS=Homo sapiens OX=9606 GN=SPTLC2 PE=1 SV=1;tr|H0YJV2|H0YJV
+280;Human;Human;tr|E9PE89|E9PE89_HUMAN DAZ-associated protein 2 OS=Homo sapiens OX=9606 GN=DAZAP2 PE=4 SV=2;tr|E9PE89|E9PE8
+281;Human;Human;tr|A0A087X1H8|A0A087X1H8_HUMAN Zinc finger protein ZFPM1 OS=Homo sapiens OX=9606 GN=ZFPM1 PE=1 SV=1;tr|A0A087X1H8|A
+282;Human;Human;tr|A0A590UJU8|A0A590UJU8_HUMAN Myosin regulatory light chain 2, ventricular/cardiac muscle isoform OS=Homo sapiens OX=9606 GN=MYL2 PE=1 SV=1;tr|A0A590UJU8|A
+283;Human;Human;tr|A0A5F9ZHN2|A0A5F9ZHN2_HUMAN Putative Polycomb group protein ASXL2 (Fragment) OS=Homo sapiens OX=9606 GN=ASXL2 PE=1 SV=1;tr|A0A5F9ZHN2|A
+284;Human;Human;tr|F8W6X9|F8W6X9_HUMAN Protein sidekick-1 OS=Homo sapiens OX=9606 GN=SDK1 PE=1 SV=1;tr|F8W6X9|F8W6X
+285;Human;Human;sp|Q9BRP7|FDXA1_HUMAN Ferredoxin-fold anticodon-binding domain-containing protein 1 OS=Homo sapiens OX=9606 GN=FDXACB1 PE=1 SV=3;sp|Q9BRP7|FDXA1
+286;Human;Human;tr|S4R3F2|S4R3F2_HUMAN Zinc finger protein 559 (Fragment) OS=Homo sapiens OX=9606 GN=ZNF559 PE=4 SV=8;tr|S4R3F2|S4R3F
+287;Human;Human;sp|Q969X6|UTP4_HUMAN U3 small nucleolar RNA-associated protein 4 homolog OS=Homo sapiens OX=9606 GN=UTP4 PE=1 SV=1;sp|Q969X6|UTP4
+288;Human;Human;tr|A0A494C0E0|A0A494C0E0_HUMAN Zinc finger protein 257 OS=Homo sapiens OX=9606 GN=ZNF257 PE=4 SV=1;tr|A0A494C0E0|A
+289;Human;Human;sp|Q9BSY9|DESI2_HUMAN Deubiquitinase DESI2 OS=Homo sapiens OX=9606 GN=DESI2 PE=1 SV=1;sp|Q9BSY9|DESI2
+290;Human;Human;sp|P10600|TGFB3_HUMAN Transforming growth factor beta-3 proprotein OS=Homo sapiens OX=9606 GN=TGFB3 PE=1 SV=1;sp|P10600|TGFB3
+291;Human;Human;sp|Q5JSJ4|INT6L_HUMAN Integrator complex subunit 6-like OS=Homo sapiens OX=9606 GN=INTS6L PE=1 SV=1;sp|Q5JSJ4|INT6L
+292;Human;Human;tr|D6REJ8|D6REJ8_HUMAN Neuronal membrane glycoprotein M6-a (Fragment) OS=Homo sapiens OX=9606 GN=GPM6A PE=1 SV=1;tr|D6REJ8|D6REJ
+293;Human;Human;tr|A0A8I5KW81|A0A8I5KW81_HUMAN [histone H3]-lysine(36) N-trimethyltransferase (Fragment) OS=Homo sapiens OX=9606 GN=SETD2 PE=1 SV=1;tr|A0A8I5KW81|A
+294;Human;Human;sp|O14874|BCKD_HUMAN [3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial OS=Homo sapiens OX=9606 GN=BCKDK PE=1 SV=2;sp|O14874|BCKD
+295;Human;Human;tr|A0A8I5KUY6|A0A8I5KUY6_HUMAN Ryanodine receptor 1 (Fragment) OS=Homo sapiens OX=9606 GN=RYR1 PE=1 SV=1;tr|A0A8I5KUY6|A
+296;Human;Human;tr|E7EM57|E7EM57_HUMAN Glucose-6-phosphate 1-dehydrogenase (Fragment) OS=Homo sapiens OX=9606 GN=G6PD PE=1 SV=1;tr|E7EM57|E7EM5
+297;Human;Human;tr|B5MCV9|B5MCV9_HUMAN T-cell immunoglobulin and mucin domain-containing protein 4 OS=Homo sapiens OX=9606 GN=TIMD4 PE=1 SV=1;tr|B5MCV9|B5MCV
+298;Human;Human;tr|A0A8V8TPT2|A0A8V8TPT2_HUMAN Osteopetrosis-associated transmembrane protein 1 OS=Homo sapiens OX=9606 GN=OSTM1 PE=4 SV=1;tr|A0A8V8TPT2|A
+299;Human;Human;tr|H3BQ64|H3BQ64_HUMAN T-cell immunomodulatory protein (Fragment) OS=Homo sapiens OX=9606 GN=ITFG1 PE=1 SV=8;tr|H3BQ64|H3BQ6
+300;Human;Human;tr|A0A8I5KYI3|A0A8I5KYI3_HUMAN BDNF/NT-3 growth factors receptor OS=Homo sapiens OX=9606 GN=NTRK2 PE=1 SV=1;tr|A0A8I5KYI3|A
+301;Human;Human;tr|I3L0D1|I3L0D1_HUMAN HCG1647537, isoform CRA_b OS=Homo sapiens OX=9606 GN=RBAK-RBAKDN PE=4 SV=1;tr|I3L0D1|I3L0D
+302;Human;Human;tr|H0YBW6|H0YBW6_HUMAN Ankyrin repeat domain-containing protein 6 (Fragment) OS=Homo sapiens OX=9606 GN=ANKRD6 PE=4 SV=1;tr|H0YBW6|H0YBW
+303;Human;Human;sp|Q76LX8|ATS13_HUMAN A disintegrin and metalloproteinase with thrombospondin motifs 13 OS=Homo sapiens OX=9606 GN=ADAMTS13 PE=1 SV=1;sp|Q76LX8|ATS13
+304;Human;Human;tr|A0A0A0MTD6|A0A0A0MTD6_HUMAN Mucin-15 OS=Homo sapiens OX=9606 GN=MUC15 PE=1 SV=1;tr|A0A0A0MTD6|A
+305;Human;Human;sp|P16410|CTLA4_HUMAN Cytotoxic T-lymphocyte protein 4 OS=Homo sapiens OX=9606 GN=CTLA4 PE=1 SV=3;sp|P16410|CTLA4
+306;Human;Human;tr|A0A3B3IRZ0|A0A3B3IRZ0_HUMAN Histone deacetylase 8 (Fragment) OS=Homo sapiens OX=9606 GN=HDAC8 PE=4 SV=1;tr|A0A3B3IRZ0|A
+307;Human;Human;tr|H7C2H5|H7C2H5_HUMAN Gamma-tubulin complex component (Fragment) OS=Homo sapiens OX=9606 GN=TUBGCP6 PE=1 SV=1;tr|H7C2H5|H7C2H
+308;Human;Human;tr|A0A087X2F1|A0A087X2F1_HUMAN Zinc finger and SCAN domain-containing protein 26 OS=Homo sapiens OX=9606 GN=ZSCAN26 PE=1 SV=1;tr|A0A087X2F1|A
+309;Human;Human;tr|H0YDU1|H0YDU1_HUMAN Rho GTPase-activating protein 42 (Fragment) OS=Homo sapiens OX=9606 GN=ARHGAP42 PE=1 SV=1;tr|H0YDU1|H0YDU
+310;Human;Human;tr|G3XAA7|G3XAA7_HUMAN Pregnancy specific beta-1-glycoprotein 9, isoform CRA_d OS=Homo sapiens OX=9606 GN=PSG9 PE=1 SV=1;tr|G3XAA7|G3XAA
+311;Human;Human;tr|A0A087WXU1|A0A087WXU1_HUMAN Microphthalmia-associated transcription factor OS=Homo sapiens OX=9606 GN=MITF PE=1 SV=1;tr|A0A087WXU1|A
+312;Human;Human;tr|F6XY72|F6XY72_HUMAN HCG2001850, isoform CRA_c OS=Homo sapiens OX=9606 GN=NME2 PE=1 SV=2;tr|F6XY72|F6XY7
+313;Human;Human;tr|C9JSW8|C9JSW8_HUMAN Mitochondrial potassium channel (Fragment) OS=Homo sapiens OX=9606 GN=CCDC51 PE=1 SV=1;tr|C9JSW8|C9JSW
+314;Human;Human;tr|A0A2R8YF43|A0A2R8YF43_HUMAN Casein kinase II subunit alpha OS=Homo sapiens OX=9606 GN=CSNK2A1 PE=1 SV=1;tr|A0A2R8YF43|A
+315;Human;Human;sp|Q9NVF7|FBX28_HUMAN F-box only protein 28 OS=Homo sapiens OX=9606 GN=FBXO28 PE=1 SV=1;sp|Q9NVF7|FBX28
+316;Human;Human;tr|M0QXJ9|M0QXJ9_HUMAN Myotonin-protein kinase (Fragment) OS=Homo sapiens OX=9606 GN=DMPK PE=1 SV=1;tr|M0QXJ9|M0QXJ
+317;Human;Human;tr|A0A8Q3WLA0|A0A8Q3WLA0_HUMAN Dynein regulatory complex subunit 6 OS=Homo sapiens OX=9606 GN=FBXL13 PE=4 SV=1;tr|A0A8Q3WLA0|A
+318;Human;Human;tr|A0A8I5KU32|A0A8I5KU32_HUMAN Probable hydrolase PNKD OS=Homo sapiens OX=9606 GN=PNKD PE=4 SV=1;tr|A0A8I5KU32|A
+319;Human;Human;tr|A0A2R8YDH3|A0A2R8YDH3_HUMAN RNA helicase OS=Homo sapiens OX=9606 GN=DDX3X PE=1 SV=1;tr|A0A2R8YDH3|A
+320;Human;Human;tr|E9PF06|E9PF06_HUMAN 39S ribosomal protein L3, mitochondrial (Fragment) OS=Homo sapiens OX=9606 GN=MRPL3 PE=1 SV=1;tr|E9PF06|E9PF0
+321;Human;Human;tr|E5RJI9|E5RJI9_HUMAN Transmembrane protein 68 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM68 PE=1 SV=1;tr|E5RJI9|E5RJI
+322;Human;Human;sp|P14867|GBRA1_HUMAN Gamma-aminobutyric acid receptor subunit alpha-1 OS=Homo sapiens OX=9606 GN=GABRA1 PE=1 SV=3;sp|P14867|GBRA1
+323;Human;Human;tr|C9J3M6|C9J3M6_HUMAN Sodium/hydrogen exchanger 10 (Fragment) OS=Homo sapiens OX=9606 GN=SLC9C1 PE=3 SV=1;tr|C9J3M6|C9J3M
+324;Human;Human;tr|D6RFZ3|D6RFZ3_HUMAN Neuronal membrane glycoprotein M6-a (Fragment) OS=Homo sapiens OX=9606 GN=GPM6A PE=1 SV=1;tr|D6RFZ3|D6RFZ
+325;Human;Human;tr|A0A087X084|A0A087X084_HUMAN UDP-glucuronosyltransferase 2B7 OS=Homo sapiens OX=9606 GN=UGT2B7 PE=1 SV=1;tr|A0A087X084|A
+326;Human;Human;sp|O00461|GOLI4_HUMAN Golgi integral membrane protein 4 OS=Homo sapiens OX=9606 GN=GOLIM4 PE=1 SV=1;sp|O00461|GOLI4
+327;Human;Human;tr|A0A7I2V3X0|A0A7I2V3X0_HUMAN Presequence protease, mitochondrial OS=Homo sapiens OX=9606 GN=PITRM1 PE=1 SV=1;tr|A0A7I2V3X0|A
+328;Human;Human;sp|Q9UBC9|SPRR3_HUMAN Small proline-rich protein 3 OS=Homo sapiens OX=9606 GN=SPRR3 PE=1 SV=2;sp|Q9UBC9|SPRR3
+329;Human;Human;tr|A0A0J9YY46|A0A0J9YY46_HUMAN Transmembrane domain-containing protein TMIGD3 (Fragment) OS=Homo sapiens OX=9606 GN=TMIGD3 PE=1 SV=1;tr|A0A0J9YY46|A
+330;Human;Human;tr|E5RH09|E5RH09_HUMAN Arginine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=RARS1 PE=1 SV=1;tr|E5RH09|E5RH0
+331;Human;Human;tr|G3V0G2|G3V0G2_HUMAN HCG2039433, isoform CRA_a OS=Homo sapiens OX=9606 GN=PRR5 PE=1 SV=1;tr|G3V0G2|G3V0G
+332;Human;Human;sp|Q6IN84|MRM1_HUMAN rRNA methyltransferase 1, mitochondrial OS=Homo sapiens OX=9606 GN=MRM1 PE=1 SV=1;sp|Q6IN84|MRM1
+333;Human;Human;tr|A0A804HL12|A0A804HL12_HUMAN RCR-type E3 ubiquitin transferase OS=Homo sapiens OX=9606 GN=MYCBP2 PE=1 SV=1;tr|A0A804HL12|A
+334;Human;Human;tr|H0YM05|H0YM05_HUMAN Cilia- and flagella-associated protein 161 (Fragment) OS=Homo sapiens OX=9606 GN=CFAP161 PE=1 SV=1;tr|H0YM05|H0YM0
+335;Human;Human;sp|Q9NZI7|UBIP1_HUMAN Upstream-binding protein 1 OS=Homo sapiens OX=9606 GN=UBP1 PE=1 SV=1;sp|Q9NZI7|UBIP1
+336;Human;Human;tr|H7C279|H7C279_HUMAN Serine/threonine-protein kinase 25 (Fragment) OS=Homo sapiens OX=9606 GN=STK25 PE=1 SV=1;tr|H7C279|H7C27
+337;Human;Human;sp|O75417|DPOLQ_HUMAN DNA polymerase theta OS=Homo sapiens OX=9606 GN=POLQ PE=1 SV=2;sp|O75417|DPOLQ
+338;Human;Human;tr|A0A494C0D6|A0A494C0D6_HUMAN Four and a half LIM domains protein 1 OS=Homo sapiens OX=9606 GN=FHL1 PE=1 SV=1;tr|A0A494C0D6|A
+339;Human;Human;tr|A0A669KBA2|A0A669KBA2_HUMAN Protein cramped-like (Fragment) OS=Homo sapiens OX=9606 GN=CRAMP1 PE=1 SV=1;tr|A0A669KBA2|A
+340;Human;Human;tr|H0YA50|H0YA50_HUMAN NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 2 (Fragment) OS=Homo sapiens OX=9606 GN=NDUFAF2 PE=1 SV=1;tr|H0YA50|H0YA5
+341;Human;Human;sp|P04553|HSP1_HUMAN Sperm protamine P1 OS=Homo sapiens OX=9606 GN=PRM1 PE=1 SV=2;sp|P04553|HSP1
+342;Human;Human;tr|M0R191|M0R191_HUMAN Zinc finger protein 415 OS=Homo sapiens OX=9606 GN=ZNF415 PE=4 SV=1;tr|M0R191|M0R19
+343;Human;Human;tr|A0A0D9SEX9|A0A0D9SEX9_HUMAN Zinc finger protein GLIS1 OS=Homo sapiens OX=9606 GN=GLIS1 PE=1 SV=1;tr|A0A0D9SEX9|A
+344;Human;Human;tr|F8VTQ6|F8VTQ6_HUMAN Photoreceptor ankyrin repeat protein OS=Homo sapiens OX=9606 GN=ANKRD33 PE=4 SV=1;tr|F8VTQ6|F8VTQ
+345;Human;Human;sp|Q6ZRV3|CC074_HUMAN Putative uncharacterized protein encoded by LINC00696 OS=Homo sapiens OX=9606 GN=LINC00696 PE=5 SV=1;sp|Q6ZRV3|CC074
+346;Human;Human;tr|K7EKP8|K7EKP8_HUMAN Cytosolic acyl coenzyme A thioester hydrolase (Fragment) OS=Homo sapiens OX=9606 GN=ACOT7 PE=1 SV=8;tr|K7EKP8|K7EKP
+347;Human;Human;tr|J3QS76|J3QS76_HUMAN Serine/threonine-protein kinase TAO1 (Fragment) OS=Homo sapiens OX=9606 GN=TAOK1 PE=1 SV=1;tr|J3QS76|J3QS7
+348;Human;Human;tr|A0A8V8TN04|A0A8V8TN04_HUMAN SKI2 subunit of superkiller complex OS=Homo sapiens OX=9606 GN=SKIC2 PE=4 SV=1;tr|A0A8V8TN04|A
+349;Human;Human;tr|A0A1W2PN81|A0A1W2PN81_HUMAN Neuronal acetylcholine receptor subunit alpha-7 OS=Homo sapiens OX=9606 GN=CHRNA7 PE=3 SV=1;tr|A0A1W2PN81|A
+350;Human;Human;tr|G3V115|G3V115_HUMAN Leucine rich repeat containing 34, isoform CRA_b OS=Homo sapiens OX=9606 GN=LRRC34 PE=1 SV=1;tr|G3V115|G3V11
+351;Human;Human;tr|C9J4I0|C9J4I0_HUMAN Transmembrane protein 184A (Fragment) OS=Homo sapiens OX=9606 GN=TMEM184A PE=1 SV=1;tr|C9J4I0|C9J4I
+352;Human;Human;sp|Q9H9A6|LRC40_HUMAN Leucine-rich repeat-containing protein 40 OS=Homo sapiens OX=9606 GN=LRRC40 PE=1 SV=1;sp|Q9H9A6|LRC40
+353;Human;Human;tr|G3XAA6|G3XAA6_HUMAN HCG40743, isoform CRA_a OS=Homo sapiens OX=9606 GN=C2orf81 PE=1 SV=1;tr|G3XAA6|G3XAA
+354;Human;Human;tr|A0A6Q8PGD1|A0A6Q8PGD1_HUMAN Centrosomal protein of 120 kDa OS=Homo sapiens OX=9606 GN=CEP120 PE=1 SV=1;tr|A0A6Q8PGD1|A
+355;Human;Human;tr|A0A7P0T879|A0A7P0T879_HUMAN 2'-5' oligoadenylate synthase OS=Homo sapiens OX=9606 GN=OAS1 PE=1 SV=1;tr|A0A7P0T879|A
+356;Human;Human;tr|A0A0A0MTS6|A0A0A0MTS6_HUMAN Methyl-CpG-binding domain protein 3 OS=Homo sapiens OX=9606 GN=MBD3 PE=1 SV=1;tr|A0A0A0MTS6|A
+357;Human;Human;tr|E7EQI3|E7EQI3_HUMAN 5,6-dihydroxyindole-2-carboxylic acid oxidase OS=Homo sapiens OX=9606 GN=TYRP1 PE=1 SV=1;tr|E7EQI3|E7EQI
+358;Human;Human;tr|H7C2W0|H7C2W0_HUMAN Cystathionine beta-synthase (Fragment) OS=Homo sapiens OX=9606 GN=CBS PE=1 SV=1;tr|H7C2W0|H7C2W
+359;Human;Human;sp|P17676|CEBPB_HUMAN CCAAT/enhancer-binding protein beta OS=Homo sapiens OX=9606 GN=CEBPB PE=1 SV=2;sp|P17676|CEBPB
+360;Human;Human;tr|A0A8Q3WKJ6|A0A8Q3WKJ6_HUMAN RNA methyltransferase OS=Homo sapiens OX=9606 GN=MEPCE PE=1 SV=1;tr|A0A8Q3WKJ6|A
+361;Human;Human;tr|C9JT28|C9JT28_HUMAN Interleukin-1 receptor accessory protein (Fragment) OS=Homo sapiens OX=9606 GN=IL1RAP PE=1 SV=1;tr|C9JT28|C9JT2
+362;Human;Human;sp|O95249|GOSR1_HUMAN Golgi SNAP receptor complex member 1 OS=Homo sapiens OX=9606 GN=GOSR1 PE=1 SV=1;sp|O95249|GOSR1
+363;Human;Human;tr|A0A6Q8PFT2|A0A6Q8PFT2_HUMAN Platelet-activating factor acetylhydrolase IB subunit beta OS=Homo sapiens OX=9606 GN=PAFAH1B1 PE=1 SV=1;tr|A0A6Q8PFT2|A
+364;Human;Human;tr|H3BTZ2|H3BTZ2_HUMAN receptor protein serine/threonine kinase (Fragment) OS=Homo sapiens OX=9606 GN=ACVRL1 PE=1 SV=1;tr|H3BTZ2|H3BTZ
+365;Human;Human;tr|K7ES67|K7ES67_HUMAN HAUS augmin-like complex subunit 1 (Fragment) OS=Homo sapiens OX=9606 GN=HAUS1 PE=1 SV=8;tr|K7ES67|K7ES6
+366;Human;Human;tr|A0A0B4J222|A0A0B4J222_HUMAN ADP-ribosylation factor-like protein 15 OS=Homo sapiens OX=9606 GN=ARL15 PE=1 SV=1;tr|A0A0B4J222|A
+367;Human;Human;sp|P08253|MMP2_HUMAN 72 kDa type IV collagenase OS=Homo sapiens OX=9606 GN=MMP2 PE=1 SV=2;sp|P08253|MMP2
+368;Human;Human;tr|Q96JS4|Q96JS4_HUMAN Cerebral protein-3 OS=Homo sapiens OX=9606 GN=ITM2C PE=2 SV=1;tr|Q96JS4|Q96JS
+369;Human;Human;tr|C9JJ18|C9JJ18_HUMAN Calcium/calmodulin-dependent protein kinase type 1B (Fragment) OS=Homo sapiens OX=9606 GN=PNCK PE=1 SV=1;tr|C9JJ18|C9JJ1
+370;Human;Human;tr|J3QL50|J3QL50_HUMAN F-box only protein 15 (Fragment) OS=Homo sapiens OX=9606 GN=FBXO15 PE=4 SV=1;tr|J3QL50|J3QL5
+371;Human;Human;tr|A0A6Q8PF91|A0A6Q8PF91_HUMAN Inverted formin-2 OS=Homo sapiens OX=9606 GN=INF2 PE=1 SV=1;tr|A0A6Q8PF91|A
+372;Human;Human;tr|H0Y6D1|H0Y6D1_HUMAN Z-DNA-binding protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=ZBP1 PE=4 SV=1;tr|H0Y6D1|H0Y6D
+373;Human;Human;tr|K7EL12|K7EL12_HUMAN Zinc finger protein 585B (Fragment) OS=Homo sapiens OX=9606 GN=ZNF585B PE=1 SV=1;tr|K7EL12|K7EL1
+374;Human;Human;tr|A0A8Q3WKF8|A0A8Q3WKF8_HUMAN AP-3 complex subunit beta-1 OS=Homo sapiens OX=9606 GN=AP3B1 PE=1 SV=1;tr|A0A8Q3WKF8|A
+375;Human;Human;sp|Q8N0S2|SYCE1_HUMAN Synaptonemal complex central element protein 1 OS=Homo sapiens OX=9606 GN=SYCE1 PE=1 SV=2;sp|Q8N0S2|SYCE1
+376;Human;Human;sp|Q8N3R3|TCAIM_HUMAN T-cell activation inhibitor, mitochondrial OS=Homo sapiens OX=9606 GN=TCAIM PE=2 SV=2;sp|Q8N3R3|TCAIM
+377;Human;Human;tr|C9J9E2|C9J9E2_HUMAN CaM kinase-like vesicle-associated protein OS=Homo sapiens OX=9606 GN=CAMKV PE=1 SV=1;tr|C9J9E2|C9J9E
+378;Human;Human;tr|A0A1W2PNV1|A0A1W2PNV1_HUMAN STE20-related kinase adapter protein alpha (Fragment) OS=Homo sapiens OX=9606 GN=STRADA PE=1 SV=1;tr|A0A1W2PNV1|A
+379;Human;Human;tr|R4GMN4|R4GMN4_HUMAN THO complex subunit 1 (Fragment) OS=Homo sapiens OX=9606 GN=THOC1 PE=1 SV=1;tr|R4GMN4|R4GMN
+380;Human;Human;tr|A0A2R8Y846|A0A2R8Y846_HUMAN Girdin OS=Homo sapiens OX=9606 GN=CCDC88A PE=1 SV=1;tr|A0A2R8Y846|A
+381;Human;Human;tr|C9IZQ5|C9IZQ5_HUMAN Protein CutA OS=Homo sapiens OX=9606 GN=CUTA PE=1 SV=1;tr|C9IZQ5|C9IZQ
+382;Human;Human;tr|F8WA32|F8WA32_HUMAN Testis-specific gene 10 protein (Fragment) OS=Homo sapiens OX=9606 GN=TSGA10 PE=1 SV=1;tr|F8WA32|F8WA3
+383;Human;Human;tr|A0A8I5KSG1|A0A8I5KSG1_HUMAN [histone H3]-lysine(4) N-methyltransferase OS=Homo sapiens OX=9606 GN=KMT2D PE=1 SV=1;tr|A0A8I5KSG1|A
+384;Human;Human;tr|A0A499FIV7|A0A499FIV7_HUMAN NLR family CARD domain-containing protein 4 OS=Homo sapiens OX=9606 GN=NLRC4 PE=1 SV=1;tr|A0A499FIV7|A
+385;Human;Human;tr|C9JAB2|C9JAB2_HUMAN Serine/arginine-rich-splicing factor 7 OS=Homo sapiens OX=9606 GN=SRSF7 PE=1 SV=1;tr|C9JAB2|C9JAB
+386;Human;Human;tr|G3V265|G3V265_HUMAN Plasma serine protease inhibitor (Fragment) OS=Homo sapiens OX=9606 GN=SERPINA5 PE=1 SV=1;tr|G3V265|G3V26
+387;Human;Human;tr|A0A0D9SET0|A0A0D9SET0_HUMAN Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2 OS=Homo sapiens OX=9606 GN=MAGI2 PE=1 SV=1;tr|A0A0D9SET0|A
+388;Human;Human;tr|A0A286YEW2|A0A286YEW2_HUMAN Major facilitator superfamily domain-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=MFSD8 PE=4 SV=1;tr|A0A286YEW2|A
+389;Human;Human;sp|P0DJ93|SIM13_HUMAN Small integral membrane protein 13 OS=Homo sapiens OX=9606 GN=SMIM13 PE=3 SV=1;sp|P0DJ93|SIM13
+390;Human;Human;sp|Q15051|IQCB1_HUMAN IQ calmodulin-binding motif-containing protein 1 OS=Homo sapiens OX=9606 GN=IQCB1 PE=1 SV=1;sp|Q15051|IQCB1
+391;Human;Human;sp|Q9BYE0|HES7_HUMAN Transcription factor HES-7 OS=Homo sapiens OX=9606 GN=HES7 PE=1 SV=2;sp|Q9BYE0|HES7
+392;Human;Human;tr|H0YCU6|H0YCU6_HUMAN AT-rich interactive domain-containing protein 1A (Fragment) OS=Homo sapiens OX=9606 GN=ARID1A PE=1 SV=1;tr|H0YCU6|H0YCU
+393;Human;Human;tr|A0A8I5KRX1|A0A8I5KRX1_HUMAN Neurobeachin (Fragment) OS=Homo sapiens OX=9606 GN=NBEA PE=1 SV=1;tr|A0A8I5KRX1|A
+394;Human;Human;tr|F8W1Q8|F8W1Q8_HUMAN Prickle-like protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=PRICKLE1 PE=1 SV=8;tr|F8W1Q8|F8W1Q
+395;Human;Human;sp|P32248|CCR7_HUMAN C-C chemokine receptor type 7 OS=Homo sapiens OX=9606 GN=CCR7 PE=1 SV=2;sp|P32248|CCR7
+396;Human;Human;tr|J3KS94|J3KS94_HUMAN Myelin basic protein (Fragment) OS=Homo sapiens OX=9606 GN=MBP PE=1 SV=1;tr|J3KS94|J3KS9
+397;Human;Human;sp|P55289|CAD12_HUMAN Cadherin-12 OS=Homo sapiens OX=9606 GN=CDH12 PE=2 SV=2;sp|P55289|CAD12
+398;Human;Human;tr|A0A8V8TQ54|A0A8V8TQ54_HUMAN Presenilin-1 OS=Homo sapiens OX=9606 GN=PSEN1 PE=4 SV=1;tr|A0A8V8TQ54|A
+399;Human;Human;tr|A0A8I5QKN9|A0A8I5QKN9_HUMAN Myopalladin OS=Homo sapiens OX=9606 GN=MYPN PE=1 SV=1;tr|A0A8I5QKN9|A
+400;Human;Human;sp|Q9H3Y6|SRMS_HUMAN Tyrosine-protein kinase Srms OS=Homo sapiens OX=9606 GN=SRMS PE=1 SV=1;sp|Q9H3Y6|SRMS
+401;Human;Human;tr|A0A1B0GW85|A0A1B0GW85_HUMAN Very-long-chain 3-oxoacyl-CoA reductase OS=Homo sapiens OX=9606 GN=HSD17B12 PE=1 SV=1;tr|A0A1B0GW85|A
+402;Human;Human;tr|F8VY72|F8VY72_HUMAN Uncharacterized protein C2orf74 OS=Homo sapiens OX=9606 GN=C2orf74 PE=4 SV=1;tr|F8VY72|F8VY7
+403;Human;Human;sp|A7MBM2|DISP2_HUMAN Protein dispatched homolog 2 OS=Homo sapiens OX=9606 GN=DISP2 PE=2 SV=2;sp|A7MBM2|DISP2
+404;Human;Human;tr|D6RAU3|D6RAU3_HUMAN Mitogen-activated protein kinase 10 (Fragment) OS=Homo sapiens OX=9606 GN=MAPK10 PE=1 SV=3;tr|D6RAU3|D6RAU
+405;Human;Human;tr|B0QYK5|B0QYK5_HUMAN EMI domain-containing protein 1 OS=Homo sapiens OX=9606 GN=EMID1 PE=1 SV=1;tr|B0QYK5|B0QYK
+406;Human;Human;tr|M0R2G5|M0R2G5_HUMAN Small integral membrane protein 7 (Fragment) OS=Homo sapiens OX=9606 PE=1 SV=1;tr|M0R2G5|M0R2G
+407;Human;Human;tr|M0QZQ1|M0QZQ1_HUMAN Pregnancy-specific beta-1-glycoprotein 1 (Fragment) OS=Homo sapiens OX=9606 GN=PSG1 PE=1 SV=1;tr|M0QZQ1|M0QZQ
+408;Human;Human;tr|A0A0D9SGB2|A0A0D9SGB2_HUMAN Four and a half LIM domains protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=FHL1 PE=1 SV=1;tr|A0A0D9SGB2|A
+409;Human;Human;tr|B5MCB5|B5MCB5_HUMAN Cellular retinoic acid-binding protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=CRABP1 PE=1 SV=2;tr|B5MCB5|B5MCB
+410;Human;Human;tr|A0A6Q8PGI1|A0A6Q8PGI1_HUMAN Caldesmon (Fragment) OS=Homo sapiens OX=9606 GN=CALD1 PE=1 SV=1;tr|A0A6Q8PGI1|A
+411;Human;Human;tr|B7ZAV2|B7ZAV2_HUMAN Nuclear pore complex protein Nup214 OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=1;tr|B7ZAV2|B7ZAV
+412;Human;Human;tr|H0YE43|H0YE43_HUMAN DNA polymerase subunit gamma-1 (Fragment) OS=Homo sapiens OX=9606 GN=POLG PE=4 SV=1;tr|H0YE43|H0YE4
+413;Human;Human;tr|F8WE10|F8WE10_HUMAN LIM and senescent cell antigen-like-containing domain protein 1 OS=Homo sapiens OX=9606 GN=LIMS1 PE=1 SV=1;tr|F8WE10|F8WE1
+414;Human;Human;tr|A0A8V8TKY7|A0A8V8TKY7_HUMAN Histone deacetylase 6 OS=Homo sapiens OX=9606 GN=HDAC6 PE=4 SV=1;tr|A0A8V8TKY7|A
+415;Human;Human;tr|A0A1B0GTV4|A0A1B0GTV4_HUMAN EF-hand domain-containing protein 1 OS=Homo sapiens OX=9606 GN=EFHC1 PE=1 SV=1;tr|A0A1B0GTV4|A
+416;Human;Human;tr|V9GZ22|V9GZ22_HUMAN Uncharacterized protein C6orf163 OS=Homo sapiens OX=9606 GN=C6orf163 PE=1 SV=1;tr|V9GZ22|V9GZ2
+417;Human;Human;sp|Q5T6C5|AT7L2_HUMAN Ataxin-7-like protein 2 OS=Homo sapiens OX=9606 GN=ATXN7L2 PE=1 SV=1;sp|Q5T6C5|AT7L2
+418;Human;Human;tr|A0A1B0GVH3|A0A1B0GVH3_HUMAN F-box-like/WD repeat-containing protein TBL1XR1 (Fragment) OS=Homo sapiens OX=9606 GN=TBL1XR1 PE=1 SV=1;tr|A0A1B0GVH3|A
+419;Human;Human;tr|B4E1C5|B4E1C5_HUMAN Histidine--tRNA ligase, cytoplasmic OS=Homo sapiens OX=9606 GN=HARS1 PE=1 SV=1;tr|B4E1C5|B4E1C
+420;Human;Human;tr|A0A669KAY5|A0A669KAY5_HUMAN DUS4L-BCAP29 readthrough OS=Homo sapiens OX=9606 GN=DUS4L-BCAP29 PE=1 SV=1;tr|A0A669KAY5|A
+421;Human;Human;tr|H7C5B7|H7C5B7_HUMAN Armadillo repeat-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=1;tr|H7C5B7|H7C5B
+422;Human;Human;tr|A0A140T9F8|A0A140T9F8_HUMAN HLA class II histocompatibility antigen, DP alpha 1 chain (Fragment) OS=Homo sapiens OX=9606 GN=HLA-DPA1 PE=1 SV=1;tr|A0A140T9F8|A
+423;Human;Human;sp|Q9C0E4|GRIP2_HUMAN Glutamate receptor-interacting protein 2 OS=Homo sapiens OX=9606 GN=GRIP2 PE=1 SV=4;sp|Q9C0E4|GRIP2
+424;Human;Human;tr|J9JID5|J9JID5_HUMAN Zinc finger protein 236 OS=Homo sapiens OX=9606 GN=ZNF236 PE=1 SV=1;tr|J9JID5|J9JID
+425;Human;Human;tr|I3L3W3|I3L3W3_HUMAN RNA N6-adenosine-methyltransferase METTL16 OS=Homo sapiens OX=9606 GN=METTL16 PE=1 SV=1;tr|I3L3W3|I3L3W
+426;Human;Human;tr|A0A1W2PPS2|A0A1W2PPS2_HUMAN Calcium-activated potassium channel subunit alpha-1 (Fragment) OS=Homo sapiens OX=9606 GN=KCNMA1 PE=1 SV=1;tr|A0A1W2PPS2|A
+427;Human;Human;tr|H3BNX4|H3BNX4_HUMAN Interferon regulatory factor 8 OS=Homo sapiens OX=9606 GN=IRF8 PE=1 SV=2;tr|H3BNX4|H3BNX
+428;Human;Human;tr|C9JW79|C9JW79_HUMAN Neural cell adhesion molecule L1-like protein (Fragment) OS=Homo sapiens OX=9606 GN=CHL1 PE=1 SV=1;tr|C9JW79|C9JW7
+429;Human;Human;sp|Q9H2B2|SYT4_HUMAN Synaptotagmin-4 OS=Homo sapiens OX=9606 GN=SYT4 PE=1 SV=1;sp|Q9H2B2|SYT4
+430;Human;Human;tr|E9PK23|E9PK23_HUMAN Single Ig IL-1-related receptor (Fragment) OS=Homo sapiens OX=9606 GN=SIGIRR PE=1 SV=1;tr|E9PK23|E9PK2
+431;Human;Human;tr|A0A8Q3WL51|A0A8Q3WL51_HUMAN Elongation factor-like GTPase 1 OS=Homo sapiens OX=9606 GN=EFL1 PE=1 SV=1;tr|A0A8Q3WL51|A
+432;Human;Human;tr|D6RBX4|D6RBX4_HUMAN Transforming growth factor-beta-induced protein ig-h3 OS=Homo sapiens OX=9606 GN=TGFBI PE=1 SV=1;tr|D6RBX4|D6RBX
+433;Human;Human;sp|Q99807|COQ7_HUMAN 5-demethoxyubiquinone hydroxylase, mitochondrial OS=Homo sapiens OX=9606 GN=COQ7 PE=1 SV=3;sp|Q99807|COQ7
+434;Human;Human;sp|Q96I27|ZN625_HUMAN Zinc finger protein 625 OS=Homo sapiens OX=9606 GN=ZNF625 PE=1 SV=1;sp|Q96I27|ZN625
+435;Human;Human;tr|G3V5R8|G3V5R8_HUMAN Alpha-1-antitrypsin (Fragment) OS=Homo sapiens OX=9606 GN=SERPINA1 PE=1 SV=1;tr|G3V5R8|G3V5R
+436;Human;Human;sp|A9YTQ3|AHRR_HUMAN Aryl hydrocarbon receptor repressor OS=Homo sapiens OX=9606 GN=AHRR PE=1 SV=3;sp|A9YTQ3|AHRR
+437;Human;Human;tr|K7EMM3|K7EMM3_HUMAN Zinc finger protein 30 homolog (Fragment) OS=Homo sapiens OX=9606 GN=ZFP30 PE=1 SV=1;tr|K7EMM3|K7EMM
+438;Human;Human;tr|A0A1B0GV47|A0A1B0GV47_HUMAN Kinesin-like protein KIF21A (Fragment) OS=Homo sapiens OX=9606 GN=KIF21A PE=1 SV=1;tr|A0A1B0GV47|A
+439;Human;Human;sp|A6NE01|F186A_HUMAN Protein FAM186A OS=Homo sapiens OX=9606 GN=FAM186A PE=2 SV=3;sp|A6NE01|F186A
+440;Human;Human;tr|H3BQT4|H3BQT4_HUMAN Lipase maturation factor 1 (Fragment) OS=Homo sapiens OX=9606 GN=LMF1 PE=4 SV=1;tr|H3BQT4|H3BQT
+441;Human;Human;sp|Q5T681|CJ062_HUMAN Uncharacterized protein C10orf62 OS=Homo sapiens OX=9606 GN=C10orf62 PE=1 SV=1;sp|Q5T681|CJ062
+442;Human;Human;tr|I3L1K9|I3L1K9_HUMAN Mitochondrial import inner membrane translocase subunit TIM16 OS=Homo sapiens OX=9606 GN=PAM16 PE=4 SV=1;tr|I3L1K9|I3L1K
+443;Human;Human;tr|D6RAQ7|D6RAQ7_HUMAN Cyclin-G-associated kinase OS=Homo sapiens OX=9606 GN=GAK PE=1 SV=1;tr|D6RAQ7|D6RAQ
+444;Human;Human;sp|P01624|KV315_HUMAN Immunoglobulin kappa variable 3-15 OS=Homo sapiens OX=9606 GN=IGKV3-15 PE=1 SV=2;sp|P01624|KV315
+445;Human;Human;sp|P33763|S10A5_HUMAN Protein S100-A5 OS=Homo sapiens OX=9606 GN=S100A5 PE=1 SV=2;sp|P33763|S10A5
+446;Human;Human;tr|A0A7P0T8M0|A0A7P0T8M0_HUMAN Serine/threonine-protein kinase VRK1 OS=Homo sapiens OX=9606 GN=VRK1 PE=1 SV=1;tr|A0A7P0T8M0|A
+447;Human;Human;tr|A0A8Q3WLN7|A0A8Q3WLN7_HUMAN XNDC1N-ZNF705EP-ALG1L9P readthrough OS=Homo sapiens OX=9606 GN=XNDC1N-ZNF705EP-ALG1L9P PE=4 SV=1;tr|A0A8Q3WLN7|A
+448;Human;Human;sp|Q9Y6A4|CFA20_HUMAN Cilia- and flagella-associated protein 20 OS=Homo sapiens OX=9606 GN=CFAP20 PE=1 SV=1;sp|Q9Y6A4|CFA20
+449;Human;Human;sp|A0A0U1RRK4|LBHD2_HUMAN LBH domain-containing protein 2 OS=Homo sapiens OX=9606 GN=LBHD2 PE=4 SV=1;sp|A0A0U1RRK4|L
+450;Human;Human;tr|A0A075B7D4|A0A075B7D4_HUMAN Immunoglobulin kappa variable 1/OR2-108 (non-functional) (Fragment) OS=Homo sapiens OX=9606 GN=IGKV1OR2-108 PE=1 SV=1;tr|A0A075B7D4|A
+451;Human;Human;tr|A0A2R8Y811|A0A2R8Y811_HUMAN 40S ribosomal protein S14 (Fragment) OS=Homo sapiens OX=9606 GN=RPS14 PE=1 SV=1;tr|A0A2R8Y811|A
+452;Human;Human;tr|A0A0G2JRK4|A0A0G2JRK4_HUMAN Mucin-4 (Fragment) OS=Homo sapiens OX=9606 GN=MUC4 PE=1 SV=1;tr|A0A0G2JRK4|A
+453;Human;Human;tr|E9PKA0|E9PKA0_HUMAN NADP-dependent malic enzyme, mitochondrial (Fragment) OS=Homo sapiens OX=9606 GN=ME3 PE=1 SV=1;tr|E9PKA0|E9PKA
+454;Human;Human;sp|O14796|SH21B_HUMAN SH2 domain-containing protein 1B OS=Homo sapiens OX=9606 GN=SH2D1B PE=1 SV=2;sp|O14796|SH21B
+455;Human;Human;sp|Q9BRX9|WDR83_HUMAN WD repeat domain-containing protein 83 OS=Homo sapiens OX=9606 GN=WDR83 PE=1 SV=1;sp|Q9BRX9|WDR83
+456;Human;Human;tr|A0A669KB69|A0A669KB69_HUMAN Apolipoprotein A-V OS=Homo sapiens OX=9606 GN=APOA5 PE=1 SV=1;tr|A0A669KB69|A
+457;Human;Human;tr|H0Y9K6|H0Y9K6_HUMAN E3 ubiquitin-protein ligase MARCHF11 (Fragment) OS=Homo sapiens OX=9606 GN=MARCHF11 PE=1 SV=1;tr|H0Y9K6|H0Y9K
+458;Human;Human;tr|A0A087WW91|A0A087WW91_HUMAN Synapsin-2 (Fragment) OS=Homo sapiens OX=9606 GN=SYN2 PE=1 SV=1;tr|A0A087WW91|A
+459;Human;Human;tr|C9JPY2|C9JPY2_HUMAN Anoctamin-10 (Fragment) OS=Homo sapiens OX=9606 GN=ANO10 PE=1 SV=1;tr|C9JPY2|C9JPY
+460;Human;Human;tr|E9PKW7|E9PKW7_HUMAN Aminopeptidase NAALADL1 (Fragment) OS=Homo sapiens OX=9606 GN=NAALADL1 PE=1 SV=1;tr|E9PKW7|E9PKW
+461;Human;Human;tr|C9JLC1|C9JLC1_HUMAN Aspartyl-tRNA synthetase (Fragment) OS=Homo sapiens OX=9606 GN=DARS1 PE=1 SV=1;tr|C9JLC1|C9JLC
+462;Human;Human;sp|Q0P6D2|DIK1C_HUMAN Divergent protein kinase domain 1C OS=Homo sapiens OX=9606 GN=DIPK1C PE=2 SV=3;sp|Q0P6D2|DIK1C
+463;Human;Human;tr|H0YJH1|H0YJH1_HUMAN Nucleoside diphosphate phosphatase ENTPD5 (Fragment) OS=Homo sapiens OX=9606 GN=ENTPD5 PE=1 SV=1;tr|H0YJH1|H0YJH
+464;Human;Human;tr|H0YC21|H0YC21_HUMAN Gamma-1-syntrophin (Fragment) OS=Homo sapiens OX=9606 GN=SNTG1 PE=4 SV=1;tr|H0YC21|H0YC2
+465;Human;Human;sp|Q10981|FUT2_HUMAN Galactoside alpha-(1,2)-fucosyltransferase 2 OS=Homo sapiens OX=9606 GN=FUT2 PE=1 SV=1;sp|Q10981|FUT2
+466;Human;Human;tr|B4E001|B4E001_HUMAN Exosome complex component RRP4 OS=Homo sapiens OX=9606 GN=EXOSC2 PE=1 SV=1;tr|B4E001|B4E00
+467;Human;Human;tr|H7C2Y1|H7C2Y1_HUMAN E3 ubiquitin-protein ligase (Fragment) OS=Homo sapiens OX=9606 GN=TRIP12 PE=1 SV=1;tr|H7C2Y1|H7C2Y
+468;Human;Human;sp|Q8NCG5|CHST4_HUMAN Carbohydrate sulfotransferase 4 OS=Homo sapiens OX=9606 GN=CHST4 PE=1 SV=2;sp|Q8NCG5|CHST4
+469;Human;Human;tr|A0A1W2PNR1|A0A1W2PNR1_HUMAN Psoriasis susceptibility 1 candidate gene 1 protein OS=Homo sapiens OX=9606 GN=PSORS1C1 PE=4 SV=1;tr|A0A1W2PNR1|A
+470;Human;Human;sp|O14983|AT2A1_HUMAN Sarcoplasmic/endoplasmic reticulum calcium ATPase 1 OS=Homo sapiens OX=9606 GN=ATP2A1 PE=1 SV=1;sp|O14983|AT2A1
+471;Human;Human;tr|H7BYY1|H7BYY1_HUMAN Tropomyosin 1 (Alpha), isoform CRA_m OS=Homo sapiens OX=9606 GN=TPM1 PE=1 SV=1;tr|H7BYY1|H7BYY
+472;Human;Human;sp|P08172|ACM2_HUMAN Muscarinic acetylcholine receptor M2 OS=Homo sapiens OX=9606 GN=CHRM2 PE=1 SV=1;sp|P08172|ACM2
+473;Human;Human;tr|H7C0I0|H7C0I0_HUMAN EF-hand domain-containing protein D1 (Fragment) OS=Homo sapiens OX=9606 GN=EFHD1 PE=1 SV=1;tr|H7C0I0|H7C0I
+474;Human;Human;tr|E7ENJ6|E7ENJ6_HUMAN AP-1 complex subunit mu-1 OS=Homo sapiens OX=9606 GN=AP1M1 PE=1 SV=1;tr|E7ENJ6|E7ENJ
+475;Human;Human;sp|Q14934|NFAC4_HUMAN Nuclear factor of activated T-cells, cytoplasmic 4 OS=Homo sapiens OX=9606 GN=NFATC4 PE=1 SV=2;sp|Q14934|NFAC4
+476;Human;Human;sp|Q96HJ5|MS4A3_HUMAN Membrane-spanning 4-domains subfamily A member 3 OS=Homo sapiens OX=9606 GN=MS4A3 PE=1 SV=1;sp|Q96HJ5|MS4A3
+477;Human;Human;tr|R4GNF7|R4GNF7_HUMAN Ribosomal biogenesis protein LAS1L (Fragment) OS=Homo sapiens OX=9606 GN=LAS1L PE=1 SV=1;tr|R4GNF7|R4GNF
+478;Human;Human;sp|Q96T25|ZIC5_HUMAN Zinc finger protein ZIC 5 OS=Homo sapiens OX=9606 GN=ZIC5 PE=1 SV=2;sp|Q96T25|ZIC5
+479;Human;Human;tr|J3KSE9|J3KSE9_HUMAN Alpha/beta-tubulin-N-acetyltransferase 9 OS=Homo sapiens OX=9606 GN=NAT9 PE=1 SV=1;tr|J3KSE9|J3KSE
+480;Human;Human;tr|H3BP95|H3BP95_HUMAN Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1;tr|H3BP95|H3BP9
+481;Human;Human;tr|A0A140T912|A0A140T912_HUMAN HLA class I histocompatibility antigen, C alpha chain OS=Homo sapiens OX=9606 GN=HLA-C PE=1 SV=1;tr|A0A140T912|A
+482;Human;Human;tr|K7EMY3|K7EMY3_HUMAN Chromodomain-helicase-DNA-binding protein 5 (Fragment) OS=Homo sapiens OX=9606 GN=CHD5 PE=1 SV=1;tr|K7EMY3|K7EMY
+483;Human;Human;sp|Q86V59|PNM8A_HUMAN Paraneoplastic antigen-like protein 8A OS=Homo sapiens OX=9606 GN=PNMA8A PE=1 SV=2;sp|Q86V59|PNM8A
+484;Human;Human;tr|Q5VZS7|Q5VZS7_HUMAN Programmed cell death protein 4 (Fragment) OS=Homo sapiens OX=9606 GN=PDCD4 PE=1 SV=1;tr|Q5VZS7|Q5VZS
+485;Human;Human;tr|E9PQZ1|E9PQZ1_HUMAN Elongation factor 1-delta OS=Homo sapiens OX=9606 GN=EEF1D PE=1 SV=1;tr|E9PQZ1|E9PQZ
+486;Human;Human;tr|X6RFQ9|X6RFQ9_HUMAN Phytanoyl-CoA dioxygenase domain-containing protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=PHYHD1 PE=1 SV=1;tr|X6RFQ9|X6RFQ
+487;Human;Human;tr|C9J993|C9J993_HUMAN Galactosylceramide sulfotransferase (Fragment) OS=Homo sapiens OX=9606 GN=GAL3ST1 PE=1 SV=1;tr|C9J993|C9J99
+488;Human;Human;tr|F8WBH2|F8WBH2_HUMAN Bromodomain-containing protein 8 OS=Homo sapiens OX=9606 GN=BRD8 PE=1 SV=1;tr|F8WBH2|F8WBH
+489;Human;Human;tr|X6R4D2|X6R4D2_HUMAN Protein HID1 (Fragment) OS=Homo sapiens OX=9606 GN=HID1 PE=1 SV=1;tr|X6R4D2|X6R4D
+490;Human;Human;sp|Q92547|TOPB1_HUMAN DNA topoisomerase 2-binding protein 1 OS=Homo sapiens OX=9606 GN=TOPBP1 PE=1 SV=3;sp|Q92547|TOPB1
+491;Human;Human;tr|H0YFI5|H0YFI5_HUMAN EF-hand calcium-binding domain-containing protein 4B (Fragment) OS=Homo sapiens OX=9606 GN=CRACR2A PE=1 SV=1;tr|H0YFI5|H0YFI
+492;Human;Human;sp|Q32M45|ANO4_HUMAN Anoctamin-4 OS=Homo sapiens OX=9606 GN=ANO4 PE=2 SV=1;sp|Q32M45|ANO4
+493;Human;Human;tr|A0A7P0T989|A0A7P0T989_HUMAN cathepsin X OS=Homo sapiens OX=9606 GN=CTSZ PE=1 SV=1;tr|A0A7P0T989|A
+494;Human;Human;tr|D6RIE4|D6RIE4_HUMAN WD repeat-containing protein 19 OS=Homo sapiens OX=9606 GN=WDR19 PE=1 SV=1;tr|D6RIE4|D6RIE
+495;Human;Human;tr|K7EPQ7|K7EPQ7_HUMAN Protein YIF1 OS=Homo sapiens OX=9606 GN=YIF1B PE=1 SV=1;tr|K7EPQ7|K7EPQ
+496;Human;Human;sp|Q7L0J3|SV2A_HUMAN Synaptic vesicle glycoprotein 2A OS=Homo sapiens OX=9606 GN=SV2A PE=1 SV=1;sp|Q7L0J3|SV2A
+497;Human;Human;tr|A0A087WV51|A0A087WV51_HUMAN Calponin-2 (Fragment) OS=Homo sapiens OX=9606 GN=CNN2 PE=1 SV=1;tr|A0A087WV51|A
+498;Human;Human;tr|A0A7I2V562|A0A7I2V562_HUMAN Cytospin-B OS=Homo sapiens OX=9606 GN=SPECC1 PE=1 SV=1;tr|A0A7I2V562|A
+499;Human;Human;tr|H7BYF4|H7BYF4_HUMAN UBX domain-containing protein 7 (Fragment) OS=Homo sapiens OX=9606 GN=UBXN7 PE=1 SV=1;tr|H7BYF4|H7BYF
+500;Human;Human;tr|D6RBP0|D6RBP0_HUMAN Sodium channel and clathrin linker 1 OS=Homo sapiens OX=9606 GN=SCLT1 PE=1 SV=1;tr|D6RBP0|D6RBP
+501;Human;Human;sp|O95409|ZIC2_HUMAN Zinc finger protein ZIC 2 OS=Homo sapiens OX=9606 GN=ZIC2 PE=1 SV=2;sp|O95409|ZIC2
+502;Human;Human;tr|A0A8I5KY57|A0A8I5KY57_HUMAN Transcription initiation factor TFIID subunit 2 OS=Homo sapiens OX=9606 GN=TAF2 PE=1 SV=1;tr|A0A8I5KY57|A
+503;Human;Human;tr|A0A087WXH5|A0A087WXH5_HUMAN Protein jagged-1 (Fragment) OS=Homo sapiens OX=9606 GN=JAG1 PE=1 SV=1;tr|A0A087WXH5|A
+504;Human;Human;tr|F8WF32|F8WF32_HUMAN Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Homo sapiens OX=9606 GN=RPN1 PE=1 SV=1;tr|F8WF32|F8WF3
+505;Human;Human;tr|F5H6Q1|F5H6Q1_HUMAN Ubiquitin thioesterase OS=Homo sapiens OX=9606 GN=OTUB1 PE=1 SV=1;tr|F5H6Q1|F5H6Q
+506;Human;Human;tr|A0A7P0TAB7|A0A7P0TAB7_HUMAN AMMECR1-like protein OS=Homo sapiens OX=9606 GN=AMMECR1L PE=1 SV=1;tr|A0A7P0TAB7|A
+507;Human;Human;tr|E5RJN4|E5RJN4_HUMAN LETM1 domain-containing protein LETM2, mitochondrial OS=Homo sapiens OX=9606 GN=LETM2 PE=1 SV=1;tr|E5RJN4|E5RJN
+508;Human;Human;sp|Q8TCU6|PREX1_HUMAN Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 1 protein OS=Homo sapiens OX=9606 GN=PREX1 PE=1 SV=3;sp|Q8TCU6|PREX1
+509;Human;Human;tr|A0A804HKR8|A0A804HKR8_HUMAN 52 kDa repressor of the inhibitor of the protein kinase OS=Homo sapiens OX=9606 GN=THAP12 PE=1 SV=1;tr|A0A804HKR8|A
+510;Human;Human;tr|A0A494BZY9|A0A494BZY9_HUMAN Transmembrane gamma-carboxyglutamic acid protein 3 (Fragment) OS=Homo sapiens OX=9606 GN=PRRG3 PE=1 SV=1;tr|A0A494BZY9|A
+511;Human;Human;sp|Q0VD86|INCA1_HUMAN Protein INCA1 OS=Homo sapiens OX=9606 GN=INCA1 PE=1 SV=1;sp|Q0VD86|INCA1
+512;Human;Human;tr|Q5JW30|Q5JW30_HUMAN Double-stranded RNA-binding protein Staufen homolog 1 OS=Homo sapiens OX=9606 GN=STAU1 PE=1 SV=1;tr|Q5JW30|Q5JW3
+513;Human;Human;tr|H0YF65|H0YF65_HUMAN Fibrocystin-L (Fragment) OS=Homo sapiens OX=9606 GN=PKHD1L1 PE=1 SV=1;tr|H0YF65|H0YF6
